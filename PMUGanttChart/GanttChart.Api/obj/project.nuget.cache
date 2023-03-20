@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "g4L1X4f7aMukmekgtm9nf5S1RhIPIUxplTdtsBuPH/G9otLghYAokYLy7hMqBsbq87M3XLgS+cL9lBZ1yzjALg==",
+  "success": true,
+  "projectFilePath": "D:\\Afghansoft\\Products\\PMU-GanttChart\\App\\PMUGanttChart\\GanttChart.Api\\GanttChart.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niaz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\niaz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\niaz\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\niaz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\niaz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\niaz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
